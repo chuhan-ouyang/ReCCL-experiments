@@ -1,0 +1,1 @@
+nvcc -o nccl_test nccl_test.cu -I/global/common/software/nersc9/nccl/2.21.5/include -I/opt/nvidia/hpc_sdk/Linux_x86_64/24.5/cuda/12.4/include -L/global/common/software/nersc9/nccl/2.21.5/lib -L/opt/nvidia/hpc_sdk/Linux_x86_64/24.5/cuda/12.4/lib64 -lnccl -lcudart

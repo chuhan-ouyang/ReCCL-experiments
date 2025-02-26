@@ -1,0 +1,1 @@
+./nccl_test 2>&1 | tee nccl_logs.txt
