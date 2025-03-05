@@ -1,0 +1,6 @@
+MPICH ERROR [Rank 0] [job id ] [Wed Mar  5 14:46:48 2025] [nid200321] - Abort(-1) (rank 0 in comm 0): MPIDI_CRAY_init: GPU_SUPPORT_ENABLED is requested, but GTL library is not linked
+ (Other MPI error)
+
+aborting job:
+MPIDI_CRAY_init: GPU_SUPPORT_ENABLED is requested, but GTL library is not linked
+

@@ -1,1 +1,4 @@
-nccl_test
+single-ccg/nccl_test
+single-ccg/nccl_test.o
+two-ccgs/nccl_test
+two-ccgs/nccl_test.o
